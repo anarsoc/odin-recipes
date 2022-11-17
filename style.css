@@ -1,0 +1,30 @@
+/* style.css */
+body{
+    background-color: rgb(247, 205, 128);
+    text-align: center;
+}
+/* give style to the headings */
+h1{
+    color: rgba(255, 123, 0, 0.555);
+    font-size: 42px;
+    font-weight: 600;
+}
+
+h2{
+    font-size: 38px;
+}
+
+h3{
+    font-size: 34px;
+}
+
+h4{
+    background-color: red;
+    color: whitesmoke;
+}
+/* give color and style to buttons */
+button{
+    font-weight: 600;
+    font-size: 22px;
+    background-color: rgb(187, 71, 36);
+}
